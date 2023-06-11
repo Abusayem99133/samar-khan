@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.samar-aria {
+    color: rgb(255, 94, 0);
+}
+
+section {
+    display: flex;
+
+
+}
+
+section img {
+    width: 100%;
+}
